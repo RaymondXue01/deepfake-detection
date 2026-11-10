@@ -1,4 +1,4 @@
-# ML4641 — Detecting AI-Generated Images via Self-Supervised Representations and Transfer Learning
+# Detecting AI-Generated Images via Self-Supervised Representations and Transfer Learning
 
 ## Repository Structure
 
